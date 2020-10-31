@@ -8,7 +8,7 @@ Testeado con Minikube en Virtualbox.
 Templates:
 
 - ingress
-- configMap
+- configMapS
 - secrets
-- deployment
+- deploymentS
 - services
